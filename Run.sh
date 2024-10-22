@@ -2,7 +2,7 @@
 
 set timeout 20
 
-set SENHA [lindex netconnNETCONN.1]
+set SENHA [lindex xxxxxxxxxx.1]
 set ANTIGA [lindex agoravai@159]
 
 spawn "./ResetPass.sh"
